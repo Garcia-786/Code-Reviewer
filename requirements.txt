@@ -1,0 +1,6 @@
+reflex==0.8.28.post1
+groq==1.1.1
+python-dotenv==1.2.2
+flake8==7.3.0
+sqlmodel==0.0.37
+redis==7.4.0
