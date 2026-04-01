@@ -6,3 +6,7 @@ assets/external/
 *.db
 .env
 .env.*
+.venv/
+venv/
+env/
+.venv/
